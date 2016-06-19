@@ -1,5 +1,5 @@
 #Stock hawk
-TODO: An Android app for monitoring stocks. This is Project No.3 in the Android Developer Nano-degree.
+An Android app for monitoring stocks. This is Project No.3 in the Android Developer Nano-degree.
 
 1. The App Displays Current Stock Prices & Price Changes.
 2. The App Uses Yahoo Stock API for the Data.
