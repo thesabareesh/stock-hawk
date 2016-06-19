@@ -1,4 +1,4 @@
-# ${1:Stock hawk}
+#Stock hawk
 TODO: An Android app for monitoring stocks. This is Project No.3 in the Android Developer Nano-degree.
 
 1. The App Displays Current Stock Prices & Price Changes.
