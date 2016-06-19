@@ -1,0 +1,39 @@
+<resources>
+  <string name="app_name" translatable="false">Stock Hawk</string>
+
+  <!-- change units icon-->
+  <string name="action_change_units" translatable="true">Change Units</string>
+  <string name="symbol_search" translatable="true">Symbol Search</string>
+  <string name="content_test" translatable="true">Search for a Stock Symbol</string>
+  <string name="input_hint" translatable="true">Enter stock symbol</string>
+  <string name="action_settings" translatable="true">Settings</string>
+  <string name="input_prefill" translatable="true"> </string>
+
+
+  <!-- chart labels -->
+  <string name="y_axis_label" translatable="false">Time</string>
+  <string name="label_previous_close" translatable="false">Previous Close</string>
+  <string name="label_open" translatable="false">Open</string>
+  <string name="label_boook_value" translatable="false">Book Value</string>
+  <string name="label_days_low" translatable="false">Day\'s Low</string>
+  <string name="label_days_high" translatable="false">Day\'s High</string>
+  <string name="label_fifty_day_moving_avg" translatable="false">50-Day Moving Avg</string>
+  <string name="label_two_hundred_day" translatable="false">200-Day Moving Avg</string>
+  <string name="label_last_trade_price" translatable="false" >Last Trade Price</string>
+  <string name="label_no_data" translatable="true">No data synced yet</string>
+
+  <!--notifications-->
+  <string name="network_toast" translatable="true">Uh-oh! This app requires an internet connection</string>
+  <string name="notify_already_added" translatable="true">This stock is already added!</string>
+  <string name="add_stock" translatable="true">Add a stock</string>
+  <string name="error_msg" translatable="true">Cannot fetch stock details. Something isn\'t right</string>
+  <string name="error_connectivity" translatable="true">Cannot fetch stock details. Please check your internet connectivity.</string>
+
+  <!-- Content descriptions-->
+  <!-- add a stock symbol-->
+  <string name="cd_add_symbol" translatable="true">Add a stock symbol</string>
+
+
+  <!-- Widget labels-->
+  <string name="widget_label" translatable="true">Today\'s Market</string>
+</resources>
